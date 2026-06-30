@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "mode": "cloud-shared",
+    "updatedAt": "2026-06-30",
+    "note": "把共享视频和音乐放进 assets/shared 目录，再在这里写上对应路径，朋友打开同一网址就能看到同样素材。"
+  },
+  "videos": {
+    "xuanming": "",
+    "taotie": "",
+    "zhulong": "",
+    "qiongqi": "",
+    "hundun": "",
+    "yinglong": ""
+  },
+  "audios": {
+    "xuanming": "",
+    "taotie": "",
+    "zhulong": "",
+    "qiongqi": "",
+    "hundun": "",
+    "yinglong": ""
+  }
+}
